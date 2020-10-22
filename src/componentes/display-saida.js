@@ -1,6 +1,5 @@
-import React from 'react'; 
+import React from 'react'
 import OutputScreenRow from './display-coluna.js'; 
-
 
 const OutputScreen = (props) => { 
 return ( 
@@ -12,3 +11,4 @@ return (
 } 
 
 export default OutputScreen; 
+

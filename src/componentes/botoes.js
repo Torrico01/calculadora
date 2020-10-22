@@ -1,10 +1,10 @@
-import React from 'react'; 
+import React from 'react'
 
 const Button = (props) => { 
 return ( 
 	<input 
 	type="button"
-    value={props.label} 
+	value={props.label} 
     onClick = {props.handleClick}
 	/> 
 ); 
